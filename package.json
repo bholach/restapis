@@ -1,0 +1,31 @@
+{
+  "name": "e-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e-exam.js",
+  "scripts": {
+    "start": "node e-exam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bholach/e-exam.git"
+  },
+  "author": "Tejash Chouhan",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "nodemailer": "^4.6.3",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/bholach/issues"
+  },
+  "homepage": "https://github.com/bholach/"
+}
